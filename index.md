@@ -21,4 +21,3 @@ Do not settle.
 
 
 ## Jekyll
-为什么！

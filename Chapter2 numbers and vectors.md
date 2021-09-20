@@ -269,7 +269,8 @@ rep()有以下两种用法：
 ```r
 > veg<-c(10,15,7,3)
 > names(veg)<-c("cabbage","tomato","potato","garlic")
-> order<-c("tomato","potato")
+> order<-veg[c("tomato","potato")]
 > order
-[1] "tomato" "potato"
+tomato potato 
+    15      7 
 ```

@@ -1,6 +1,10 @@
 ## About Me
 
-ECNU广告本→CUHK Marketing硕/4A→快消→？打工人
+ECNU广告本→CUHK Marketing硕  
+4A→快消→？打工人  
+coding新手刚开始努力😀  
+Do not put limits on yourself.  
+Do not settle.
 
 
 ## R Language

@@ -12,6 +12,7 @@ Do not settle.
 [原书链接](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)在这啦~
 ### Note
 #### [Chapter 2 Numbers and Vectors](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/Chapter2%20numbers%20and%20vectors.md)
+#### [Chapter 3 Objects](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/Chapter3%20objects.md)
 
 
 ## Python

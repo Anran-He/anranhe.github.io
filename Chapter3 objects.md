@@ -3,7 +3,7 @@
 ### intrinsic attributes: mode and length
 R所操作的对象包括：
 * vectors
-    * vector内的value必须属于同样的mode（原子结构），即logical、complex、numeric、character、raw。
+    * vector内的value必须属于同样的mode（原子结构），即logical、complex、numeric、character、raw等。
 * lists
     * lists的mode即为list，lists内部的对象可以属于任何mode。lists属于递归结构而非原子结构。
 * function
@@ -22,7 +22,7 @@ R所操作的对象包括：
 * attributes
 * class
 
-```
+```r
 > a<-c(4,3)
 > mode(a)
 [1] "numeric"
@@ -30,7 +30,7 @@ R所操作的对象包括：
 [1] 2
 ```
 as.*mode*()可以转换对象mode：
-```
+```r
 > a<-c(3,5)
 > mode(a)
 [1] "numeric"
@@ -47,7 +47,7 @@ as.*mode*()可以转换对象mode：
 ```
 ## changing the length of an object
 增加长度：
-```
+```r
 > e<-numeric()
 > e
 numeric(0)
@@ -56,14 +56,14 @@ numeric(0)
 [1] NA  3
 ```
 缩短长度
-```
+```r
 > a<-c('e','t','f','d','s','b','c','a','j','v')
 > length(a)<-4
 > a
 [1] "e" "t" "f" "d"
 ```
 还有一个有趣的缩短长度的方法，比如字符向量a的长度为6，通过改变索引内的数字可以提取出不同长度的字符向量。如果索引数字为[2*1:3]，即提取2、4、6位置上的字符。
-```
+```r
 > a<-c('e','f','h','x','j','q')
 > a
 [1] "e" "f" "h" "x" "j" "q"
@@ -72,7 +72,7 @@ numeric(0)
 [1] "f" "x" "q"
 ```
 如果将索引更改为[3*1:2]，即提取3和6位置上的字符。
-```
+```r
 > a<-c('e','f','h','x','j','q')
 > a<-a[3*1:2]
 > a
@@ -81,7 +81,7 @@ numeric(0)
 ## getting and setting attributes
 这里的attributes指的是non-intrinsic attributes，因此：
 **getting attributes:**
-```
+```r
 > a<-4
 > attributes(a)
 NULL

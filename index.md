@@ -14,12 +14,4 @@ Do not settle.
 #### [Chapter 2 Numbers and Vectors](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/Chapter2%20numbers%20and%20vectors.md)
 #### [Chapter 3 Objects](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/Chapter3%20objects.md)
 #### [Chapter 4 Ordered and unordered factors](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/Chapter%204%20ordered%20and%20unordered%20factors.md)
-
-
-## Python
-
-
-## HTML5&CSS3
-
-
-## Jekyll
+#### [Chapter 5 Arrays and matrices](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/Chapter%205%20arrays%20and%20matrices.md)

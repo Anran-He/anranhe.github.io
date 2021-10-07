@@ -270,15 +270,15 @@ $vectors
 [3,] -0.5773503 -0.4082483  0.7071068
 ```
 #### 奇异值分解和行列式
-svd(x)
+svd(x)  
 absdet(x)
 #### 最小二乘拟合与QR分解
-lsfit(X,y)
+lsfit(X,y)  
 qr(x)
 
 ### form partitioned matrices
-x<-cbind(a1,a2,……):a1,a2……是任意长度的向量，或者相同行数的矩阵。
-rbind()与之对应
+x<-cbind(a1,a2,……):a1,a2……是任意长度的向量，或者相同行数的矩阵。  
+rbind()与之对应。
 
 ### c() with arrays
 两种方法将数组转化为向量：
@@ -300,5 +300,3 @@ rbind()与之对应
 > as.vector(x)
 [1] 1 1 1 1 1 1 1 1 1
 ```
-
-

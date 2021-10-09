@@ -15,3 +15,4 @@ Do not settle.
 #### [Chapter 3 Objects](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/Chapter3%20objects.md)
 #### [Chapter 4 Ordered and unordered factors](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/Chapter%204%20ordered%20and%20unordered%20factors.md)
 #### [Chapter 5 Arrays and matrices](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/Chapter%205%20arrays%20and%20matrices.md)
+#### [Chapter 6 Lists and data frames](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/Chapter%206%20lists%20and%20data%20frames.md)

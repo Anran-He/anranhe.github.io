@@ -17,6 +17,7 @@ Do not settle.
 #### [Chapter 5 Arrays and matrices](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/Chapter%205%20arrays%20and%20matrices.md)
 #### [Chapter 6 Lists and data frames](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/Chapter%206%20lists%20and%20data%20frames.md)
 
-## SQL牛客网刷题笔记
-
-## 和鲸社区R语言
+## Data Analysis
+整理了一些自己做过的和数据分析相关的代码，当作一个备忘录吧。
+#### [Python_批量下载图片_图像识别](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD%E5%9B%BE%E7%89%87_%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB.md)
+#### [Python_遍历文件夹下的json文件_字典嵌套列表转化为数据框](https://github.com/Anran-He/anranhe.github.io/blob/gh-pages/%E9%81%8D%E5%8E%86%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E7%9A%84json%E6%96%87%E4%BB%B6_%E5%AD%97%E5%85%B8%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8%E8%BD%AC%E5%8C%96%E4%B8%BA%E6%95%B0%E6%8D%AE%E6%A1%86.md)

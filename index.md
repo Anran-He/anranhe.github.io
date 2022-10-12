@@ -2,7 +2,7 @@
 
 ECNU广告本→CUHK Marketing硕  
 4A→快消→咨询→？打工人  
-努力转数分的新手刚开始努力😀  
+努力转码的新手刚开始努力😀  
 Do not put limits on yourself.  
 Do not settle.
 
